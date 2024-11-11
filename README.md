@@ -8,7 +8,7 @@ Deskripsi:
 - Fitur-fitur yang mendukung pelajaran seperti Mapel/Matkul, Tugas, dan Pengingat, serta Referensi Buku dari tingkat SD sampai Universitas.
 - Halaman tambahan/INTERMESO untuk menanamkan Kesadaran Kewajiban Pajak sejak dini.
 
-Berikut adalah Storyoard, Mockup dan UI Design dari aplikasi ApkStar:
+Berikut adalah Storyboard, Mockup dan UI Design dari aplikasi ApkStar:
 
 https://www.figma.com/design/kGLJAbfKpkbNbDPSGd12AC/STORYBOARD-MOCKUP-UI-DESIGN-APKSTAR?node-id=0-1&node-type=canvas&t=mjagWLyGUZTJcK9j-0
 
