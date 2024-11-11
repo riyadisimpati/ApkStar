@@ -6,7 +6,7 @@ SET YOUR SUBJECT SCHEDULE
 Deskripsi:  
 - Aplikasi ini bertujuan untuk memberikan solusi cerdas dalam pembelajaran.
 - Fitur-fitur yang mendukung pelajaran seperti Mapel/Matkul, Tugas, dan Pengingat, serta Referensi Buku dari tingkat 
-  TK/PAUD, SD sampai Universitas.
+  TK/PAUD, SD, SMP, SMU DAN UNIVERSITAS.
 - Halaman tambahan/INTERMESO untuk menanamkan Kesadaran Kewajiban Pajak sejak dini.
 
 Berikut adalah Storyboard, Mockup dan UI Design dari aplikasi ApkStar:
