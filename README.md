@@ -9,7 +9,7 @@ Aplikasi ini bertujuan untuk memberikan solusi cerdas dalam pembelajaran dengan 
 
 Berikut adalah storyboard dari aplikasi ApkStar:
 
-![Storyboard](https://www.figma.com/design/kGLJAbfKpkbNbDPSGd12AC/STORYBOARD-MOCKUP-UI-DESIGN-APKSTAR?node-id=44-44&node-type=canvas&t=707fY7767zwI9dlR-0)
+![Storyboard_Mockup_UI_Design](https://www.figma.com/design/kGLJAbfKpkbNbDPSGd12AC/MOCKUP-%26-UI-DESIGN-APKSTAR---RIYADI---312310262---TI.23.C4---UPB?node-id=44-44&node-type=canvas&t=5ZtjveGBPMQIlDJ2-0)
 
 
 ### 2. Halaman Mapel/Matkul
