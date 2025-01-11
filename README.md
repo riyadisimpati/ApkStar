@@ -19,5 +19,7 @@ Link Download ApkStar:
 
 https://play.google.com/apps/test/RQoRJI5-jwM/ahAO29uNRVjrbdAcmsCHH7Eaxn7tbpWYOIXQhVfmEMG66enqC_2za3hToclDXZvyzGzeNC-tpphywP38Hc_d7VKS_Z
 
+
+
 “Hak Cipta © Riyadi Simpati-312310262-TI.23.C4-UNIVERSITAS PELITA BANGSA”
 
