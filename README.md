@@ -15,6 +15,7 @@ https://www.figma.com/design/kGLJAbfKpkbNbDPSGd12AC/STORYBOARD-MOCKUP-UI-DESIGN-
 
 https://www.figma.com/design/kGLJAbfKpkbNbDPSGd12AC/MOCKUP-%26-UI-DESIGN-APKSTAR---RIYADI---312310262---TI.23.C4---UPB?node-id=44-44&node-type=canvas&t=5ZtjveGBPMQIlDJ2-0
 
+Link Download:
 https://play.google.com/apps/test/RQoRJI5-jwM/ahAO29uNRVjrbdAcmsCHH7Eaxn7tbpWYOIXQhVfmEMG66enqC_2za3hToclDXZvyzGzeNC-tpphywP38Hc_d7VKS_Z
 
 “Hak Cipta © Riyadi Simpati-312310262-TI.23.C4-UNIVERSITAS PELITA BANGSA”
